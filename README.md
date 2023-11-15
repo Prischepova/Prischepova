@@ -4,4 +4,5 @@
 
 https://github-profile-trophy.vercel.app/?username=Prischepova=alduin
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prischepova)](https://github.com/Prischepova/Prischepova)
 

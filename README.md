@@ -4,5 +4,5 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prischepova&theme=gruvbox)](https://github.com/Prischepova/Prischepova)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prischepova&theme=gruvbox&row=2&column=3)](https://github.com/Prischepova/Prischepova)
 

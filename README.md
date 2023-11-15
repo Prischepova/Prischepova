@@ -6,5 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Prischepova&theme=gruvbox&row=2&column=3)](https://github.com/Prischepova/Prischepova)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Prischepova)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prischepova)](https://github.com/Prischepova/Prischepova)
 

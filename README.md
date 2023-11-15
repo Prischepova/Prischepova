@@ -3,9 +3,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/Prischepovaryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?PrischepovaDenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/PrischepovaDenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Prischepovaanuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Prischepovaanuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiPrischepovaanuraghazra)](https://github.com/anuraghazra/github-readme-stats)

@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prischepova=gruvbox)](https://github.com/Prischepova/Prischepova)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prischepova&theme=gruvbox)](https://github.com/Prischepova/Prischepova)
 

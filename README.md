@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Prischepova&theme=gruvbox&row=1&column=8&no-frame=true)](https://github.com/Prischepova/Prischepova)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Prischepova&theme=dark&theme=center)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Prischepova&theme=sunset-gradient)](https://git.io/streak-stats)
 
 
 

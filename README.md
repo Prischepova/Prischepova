@@ -2,12 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+[<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/Prischepova/Prischepova/blob/main/github-metrics.svg">](https://github.com/Prischepova/Prischepova)
 
-[![trophy](https://github-profile-trophy.vercel.app/?Prischepova=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Prischepova/Prischepova/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Prischepova/Prischepova/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-[![GitHub Streak](https://streak-stats.demolab.com/PrischepovaDenverCoder1&theme=dark)](https://git.io/streak-stats)
-
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Prischepovaanuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiPrischepovaanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)

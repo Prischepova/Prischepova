@@ -3,9 +3,9 @@
 <h3 align="center">Im from Russia 🇷🇺</h3>
 
 https://github-profile-trophy.vercel.app/prischepovaryo-ma&no-bg=true
-[![GitHub Streak](https://streak-stats.demolab.com/PrischepovaDenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?PrischepovaDenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Prischepovaanuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Prischepovaanuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiPrischepovaanuraghazra)](https://github.com/anuraghazra/github-readme-stats)

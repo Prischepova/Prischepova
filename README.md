@@ -2,6 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-https://github-profile-trophy.vercel.app/?username=Prischepova-ma&theme=alduin
+https://github-profile-trophy.vercel.app/?username=Prischepova=alduin
 
 

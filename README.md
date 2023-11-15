@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Prischepova)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prischepova&theme=gruvbox&column=3&no-frame=true)](https://github.com/Prischepova/Prischepova)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prischepova&theme=gruvbox&row=1&column=4&no-frame=true)](https://github.com/Prischepova/Prischepova)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Prischepova&theme=dark)](https://git.io/streak-stats)
 

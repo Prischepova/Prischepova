@@ -2,6 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-[![trophy]([https://github-profile-trophy.vercel.app/?username=Prischepova=true](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true))](https://github.com/Prischepova/Prischepova)
+[![trophy]([https://github-profile-trophy.vercel.app/?username=Prischepova=alduin](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true))](https://github.com/Prischepova/Prischepova)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
+

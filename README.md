@@ -6,3 +6,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Prischepova&theme=gruvbox&row=2&column=3)](https://github.com/Prischepova/Prischepova)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prischepova)](https://github.com/Prischepova/Prischepova)
+

@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=Prischepova&theme=gruvbox&row=2&column=3&no-frame=true)](https://github.com/Prischepova/Prischepova)<a target="_blank">[![GitHub Streak](https://streak-stats.demolab.com/?user=Prischepova&theme=dark)](https://git.io/streak-stats)</a> 
+<div align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=Prischepova&theme=gruvbox&row=2&column=3&no-frame=true)](https://github.com/Prischepova/Prischepova)<div target="_blank">[![GitHub Streak](https://streak-stats.demolab.com/?user=Prischepova&theme=dark)](https://git.io/streak-stats)</a> 
 
 
 
